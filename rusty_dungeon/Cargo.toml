@@ -1,8 +1,8 @@
 [package]
 name = "rusty_dungeon"
 version = "0.1.0"
-authors = ["Matthias Loebach <github@loebach.net>"]
 edition = "2021"
+authors = ["Matthias Loebach <github@loebach.net>"]
 
 [dependencies]
-bracket-lib = "~0.8.7"
+bracket-lib = "~0.8"
